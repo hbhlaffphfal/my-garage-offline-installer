@@ -26,10 +26,6 @@
 
 </div>
 
-<div align="center">
-<img width="460" height="215" alt="My Garage" src="https://raw.githubusercontent.com/hbhlaffphfal/my-garage-offline-installer/main/game.jpg" />
-</div>
-
 ---
 
 ## 📖 About My Garage
